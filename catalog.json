@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "email":"23f1003149@ds.study.iitm.ac.in",
-    "version":59697515
+    "email": "23f1003149@ds.study.iitm.ac.in",
+    "version": 59697515
   },
   "products": [
     { "id": "prod-59697515-001", "name": "Standard Item 1", "category": "electronics", "price": 145.12, "stock": 119, "rating": 2.1 },
@@ -31,4 +31,5 @@
     "books": { "count": 3, "inventoryValue": 61730.87 }
   }
 }
+
 
